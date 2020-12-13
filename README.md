@@ -97,7 +97,13 @@ xterm -T JEMBER -e linux ubd0=JEMBER,jarkom umid=JEMBER eth0=daemon,,,switch16 m
 
 <img src="https://cdn.discordapp.com/attachments/777146787336290354/787684481468334100/1.2_berhasil_membuat_uml.png" width="800" height="400">
 
+- Topologi VLSM
 
+<img src="https://cdn.discordapp.com/attachments/777146787336290354/787677157538398228/1607866370559.jpg" width="800" height="400">
+
+- Setelah itu lakukan penghitungan IP Address yang dibutuhkan (Jumlah Host, Router, dan Server). Terdapat 5841 IP Address maka subnet yang dipakai untuk membuat pohon IP yaitu subnet 19.
+
+<img src="https://cdn.discordapp.com/attachments/777146787336290354/787587817437790218/Pembagian_Subnet.JPG" width="400" height="500">
 
 
 
