@@ -91,9 +91,11 @@ xterm -T BANYUWANGI -e linux ubd0=BANYUWANGI,jarkom umid=BANYUWANGI eth0=daemon,
 xterm -T JEMBER -e linux ubd0=JEMBER,jarkom umid=JEMBER eth0=daemon,,,switch16 mem=64M &
 ```
 
-<img src="https://cdn.discordapp.com/attachments/777146787336290354/787677493939011614/1.1_setting_uml.png" width=="800" height="400">
+<img src="https://cdn.discordapp.com/attachments/777146787336290354/787677493939011614/1.1_setting_uml.png" width="800" height="400">
 
+- Beriku merupakan gambar sukses melakukan konfigurasi pada UML
 
+<img src="https://cdn.discordapp.com/attachments/777146787336290354/787684481468334100/1.2_berhasil_membuat_uml.png" width="800" height="400">
 
 
 
