@@ -24,7 +24,7 @@ dan DAPAT DIKERJAKAN.
 8. Pastikan semua UML dapat melakukan ping ke its.ac.id
 ```
 
-# Cisco Packet Tracker CIDR
+# Cisco Packet Tracker menggunakan metode CIDR
 
 - Topologi di CPT dan tentukan subnet.
 
