@@ -38,7 +38,7 @@ dan DAPAT DIKERJAKAN.
 
 - Setelah itu lakukan penghitungan IP Address yang dibutuhkan (Jumlah Host, Router, dan Server). Terdapat 5841 IP Address maka subnet yang dipakai untuk membuat pohon IP yaitu subnet 19.
 
-<img src="https://cdn.discordapp.com/attachments/777146787336290354/787587817437790218/Pembagian_Subnet.JPG" width="500" height="400">
+<img src="https://cdn.discordapp.com/attachments/777146787336290354/787587817437790218/Pembagian_Subnet.JPG" width="400" height="500">
 
 
 
